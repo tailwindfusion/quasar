@@ -1,4 +1,4 @@
-# Quasar App (autosimulate)
+# Quasar App (quasar-project)
 
 A Quasar Project
 
